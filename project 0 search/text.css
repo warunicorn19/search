@@ -1,0 +1,173 @@
+ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  color: black;
+  display: block;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size:14px;
+}
+li a:hover {
+  text-decoration: underline;
+}
+.cube{
+  height:23px;
+  position:relative;
+  bottom:4px;
+}
+.sbutton{
+  background-color: cornflowerblue;
+  color: white;
+  border:none;
+  border-radius:3px;
+  padding:7px 10px;
+  position:relative;
+  bottom:7px;
+  font-weight:bold;
+}
+.logo{
+background-color: white;
+  margin-top:150px;
+  margin-bottom:20px;
+}
+.bar{
+  margin:0 auto;
+  width:575px;
+  border-radius:30px;
+  border: 1px solid black;
+}
+
+
+
+.sbar{
+  height:45px;
+  border:none;
+  width:500px;
+  font-size:16px;
+  outline: none;
+  
+}
+.voice{
+  height:20px;
+  position:relative;
+  top:5px;
+  left:10px;
+}
+.buttons{
+  margin-top:30px;
+}
+.button{
+  background-color: whitesmoke;
+  border:none;
+  color: lightslategray;
+  font-size:15px;
+  padding: 10px 20px;
+  margin:5px;
+  border-radius:4px;
+  outline:none;
+  align-items: center;
+}
+.button:hover{
+    border: 1px solid lightslategray;
+    padding: 9px 19px;
+    color:#808080;
+  }
+  .button:focus{
+    border:1px solid blue;
+    padding: 9px 19px;
+  }
+
+
+  .main{
+    margin-top: 20px;
+}
+
+#adtitle{
+    color: darkred;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
+
+#title1{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+.find{
+    margin-bottom: 10px;
+    margin-left: 20px;
+    
+}
+
+.space{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.adinput{
+  height:30px;
+  width:50px;
+  font-size:16px;
+  outline: none;
+  width: 60%;
+  text-align: left;
+  border: 1px solid lightgray;
+}
+
+.adtext{
+    width: 200px;
+    justify-content: center;
+}
+
+.spacebut{
+    
+    margin-top: 40px;
+    margin-left: 20px;
+    
+}
+
+#Image {
+  position: fixed;
+    top: 0;
+    display: flex;
+    min-height: 10px;
+    width: 10%;
+    align-items: center;
+    background-color: white;
+    margin-top:10px;
+}
+
+#head{
+  top: 0;
+  background-color: white;
+  height:100%;
+}
+#pbar1{
+  margin-left: 82px;
+}
+
+#pbar2{
+  margin-left: 17px;
+
+}
+
+#pbar3{
+  margin-left: 58px;
+
+}
+
+#pbar4{
+  margin-left: 50px;
+
+
+}
